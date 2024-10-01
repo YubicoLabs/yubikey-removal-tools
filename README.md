@@ -56,7 +56,7 @@ To make this code little bit better and to make it start on startup you can add 
           ...
 
 ## News
- - Latest version has a better YubiKey Information class for accurancy of YubiKe models.
+ - Latest version has a better YubiKey Information class for accurancy of YubiKey models.
  - Latest version also has a log tool
 
 ## [License](#license)
